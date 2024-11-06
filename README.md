@@ -48,10 +48,3 @@ const mukund = {
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-Mukund_Pasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukund-pasi-03010224b/)](https://www.linkedin.com/in/mukund-pasi-03010224b/)
 [![Email](https://img.shields.io/badge/-mukpas999@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mukpas999@gmail.com)
-
----
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukundpasi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundpasi&layout=compact&theme=radical)
