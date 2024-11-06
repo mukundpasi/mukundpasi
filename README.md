@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Mukund Pasi
 
-<!--
-**mukundpasi/mukundpasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | React.js | Node.js | Cloud Technologies
 
-Here are some ideas to get you started:
+```javascript
+const mukund = {
+    title: "Full Stack Developer",
+    code: ["JavaScript", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js", "Next.js"],
+            css: ["CSS3", "Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+        },
+        databases: ["PostgreSQL", "MongoDB"],
+        cloud: ["AWS", "Firebase"]
+    },
+    currentFocus: "Building scalable web applications and fintech solutions"
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+🚀 Full Stack Developer with 3+ years of experience in building enterprise-level applications
+🎯 Specialized in React.js, Node.js, and cloud technologies
+💡 Passionate about creating efficient, scalable, and maintainable code
+🌱 Currently exploring cloud-native architectures and microservices
+
+## My Expertise
+- 💪 Frontend Development: React.js, Next.js, JavaScript
+- 🛠️ Backend Development: Node.js, Express.js
+- 📊 Database Management: PostgreSQL, MongoDB
+- ☁️ Cloud Services: AWS, Firebase
+- 🔄 Version Control: Git, GitHub, Bitbucket
+- 📝 Project Management: Jira
+
+## Recent Projects
+- 🚗 Chennai Cabs Platform
+- 🎓 College Management System
+- 🛒 E-commerce Solutions
+- 💰 Fintech Applications
+
+## Achievements
+- 📜 Full Stack Development Program with Cloud (Hero Vired, 2023)
+- 🏆 Node.js Developer Certification (Udemy, 2022)
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-Mukund_Pasi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukund-pasi-03010224b/)](https://www.linkedin.com/in/mukund-pasi-03010224b/)
+[![Email](https://img.shields.io/badge/-mukpas999@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:mukpas999@gmail.com)
+
+---
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
