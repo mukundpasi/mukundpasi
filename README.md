@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukund Pasi
 
-### 💻 Full Stack Developer | React.js | Node.js | Cloud Technologies
+### 💻 Full Stack Developer | React.js | Next.js | Node.js | Cloud Technologies
 
 ```javascript
 const mukund = {
@@ -52,6 +52,6 @@ const mukund = {
 ---
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukundpasi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundpasi&layout=compact&theme=radical)
